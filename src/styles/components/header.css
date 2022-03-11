@@ -1,0 +1,11 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    text-shadow: rgba(255, 255, 255, 0.842) 4px 4px;
+    color: rgb(0, 0, 0);
+}
+
+.nombre{
+    font-size: 3rem;
+}

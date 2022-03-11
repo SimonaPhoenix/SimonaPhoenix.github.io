@@ -1,0 +1,53 @@
+.main{
+    position: absolute;
+    padding-top: 12rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.info{
+    background-color: aliceblue;
+    height: fit-content;
+    width: 40%;
+    margin: 1rem;
+    padding: 1rem;
+    border: solid black 6px;
+    flex-grow: 2 1;
+}
+
+.carta-box:hover .carta {
+    transform: rotateY(180deg);
+}
+
+.carta {
+  transform-style: preserve-3d;
+  transition: all 1s linear;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cara {
+  backface-visibility: hidden;
+}
+
+.frente{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cara.detras {
+  transform: rotateY(180deg);
+  
+}
+
+.icon{
+    text-align: center;
+    height: 100px;
+}

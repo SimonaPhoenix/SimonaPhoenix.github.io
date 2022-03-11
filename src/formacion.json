@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "lugar" : "Colegio Ntra Señora de Lourdes, Santa Fe.",
+        "estado":"Desde ciclo inicial hasta que finalice el secundario."
+    },
+    {
+        "id":2,
+        "lugar" : "Tec. Sup. en Emergencias Prehospitalarias.",
+        "estado":"Instituto CETED. Finalizado."
+    },
+    {
+        "id":3,
+        "lugar" : "Curso de introducción a Normas ISO 9001.",
+        "estado":"UTN-BA, bajo la modalidad e-learning. Finalizado."
+    },
+    {
+        "id":3,
+        "lugar" : "Front End Developer.",
+        "estado":"Next U. Finalizado."
+    },
+    {
+        "id":4,
+        "lugar" : "Gestión de Proyectos, SCRUM",
+        "estado":"Workshop dictado por Programa desde tu casa."
+    },
+
+    {
+        "id":5,
+        "lugar" : "Software Tester QA.",
+        "estado":"Udemy. Finalizado"
+    },
+    {
+        "id":6,
+        "lugar" : "Experto Universitario en Programación Full Stack",
+        "estado":"UTN-BA, bajo la modalidad e-learning. Finalizado"
+    },
+    {
+        "id":7,
+        "lugar" : "Webinar de Introducción a Software Testing QA",
+        "estado":"Educacion IT"
+    },
+    
+    {
+        "id":8,
+        "lugar" : "Ingles.",
+        "estado":"Nivel Medio"
+    },
+    {
+        "id":9,
+        "lugar" : "React JS",
+        "estado":"Educacion IT. En curso."
+    }
+    
+]
+
+
+
+           
+            
